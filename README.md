@@ -8,13 +8,13 @@ Tools > Code Snippet Manager > MySnippets > Import
 
 ## To use it
 
-** type in code ` disposeObjetc ` tab + tab **
+- type in code ` disposeObjetc ` tab + tab
 
 or
 
-ctrl + k , ctrl + x
+- ctrl + k , ctrl + x
 
-** Insert Isnippet > MySnippets > Dispose + tab **
+Insert Isnippet > MySnippets > Dispose + tab 
   
 Type objetct name and digit enter to change  ` ObjectToDispose ` with appropriate object to check if null then and dispose.
 ```
