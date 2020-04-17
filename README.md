@@ -4,7 +4,9 @@ Visual Studio Code Snippet to use make easy dispose object inside override dispo
 
 ## To add the snippet into Visual Studo
 
-Tools > Code Snippet Manager > MySnippets > Import
+Download this repo
+
+Tools > Code Snippet Manager > MySnippets > Import > Select  downloaded file Dispose.snippet
 
 ## To use it
 
@@ -16,7 +18,8 @@ or
 
 Insert Isnippet > MySnippets > Dispose + tab 
   
-Type objetct name and digit enter to change  ` ObjectToDispose ` with appropriate object to check if null then and dispose.
+Type object name than digit enter and it's done!
+This step will change  ` ObjectToDispose ` with appropriate object to check if null then and dispose.
 ```
                     if (ObjectToDispose != null)
                     {
